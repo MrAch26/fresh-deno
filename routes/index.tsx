@@ -11,6 +11,7 @@ export default function Home() {
         height="100px"
         alt="the fresh logo: a sliced lemon dripping with juice"
       />
+      <h3>Hi Jon Spiller how are you ?</h3>
       <p class={tw`my-6`}>
         Welcome to `fresh`. Try update this message in the ./routes/index.tsx
         file, and refresh. C'est le gros jojo ICIIII !
